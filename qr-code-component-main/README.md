@@ -13,8 +13,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [Solution URL ](https://www.frontendmentor.io/solutions/dav-qr-code-component-0CKNibb5YM)
-- Live Site URL: [Live website](https://dav-qr-code-component.netlify.app)
+- [Solution URL ](https://www.frontendmentor.io/solutions/dav-qr-code-component-0CKNibb5YM)
+- [Live website](https://dav-qr-code-component.netlify.app)
 
 ## Screenshots
 
