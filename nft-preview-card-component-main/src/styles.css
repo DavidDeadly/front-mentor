@@ -63,7 +63,7 @@ body {
     text-decoration: none;
   }
 
-  main {
+  div {
     display: flex;
     gap: 15px;
     position: relative;
