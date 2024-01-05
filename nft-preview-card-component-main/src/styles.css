@@ -17,7 +17,7 @@
 }
 
 body {
-  height: 100svh;
+  min-height: 100svh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -46,7 +46,8 @@ body {
 }
 
 .nft-card {
-  width: 320px;
+  max-width: 320px;
+  min-width: 300px;
   margin: auto;
   padding: 25px;
   display: flex;
